@@ -1,3 +1,4 @@
+"// Made by CSDLT
 package machine;
 
 import java.util.Scanner;
@@ -15,7 +16,7 @@ public class CoffeeMachine {
     private final static String REMAINING = "remaining";
     private final static String EXIT = "exit";
 
-    public static void main(String[] args) {
+    public :tic void main(String[] args) {
         String input;
 
         startup();
@@ -195,3 +196,4 @@ public class CoffeeMachine {
         System.out.println(sb);
     }
 }
+"
