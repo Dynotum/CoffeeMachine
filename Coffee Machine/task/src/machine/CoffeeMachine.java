@@ -1,4 +1,4 @@
-"// Made by CSDLT
+// Made by CSDLT
 package machine;
 
 import java.util.Scanner;
